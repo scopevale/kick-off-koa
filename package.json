@@ -1,0 +1,32 @@
+{
+  "name": "kick-off-koa",
+  "version": "1.0.0",
+  "description": "nodeschool.io - kick off koa module",
+  "main": "server.js",
+  "dependencies": {
+    "co-body": "^4.0.0",
+    "cookies": "^0.5.1",
+    "koa": "^1.1.2",
+    "koa-session": "^3.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scopevale/kick-off-koa.git"
+  },
+  "keywords": [
+    "koa",
+    "nodeschool"
+  ],
+  "author": "scopevale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scopevale/kick-off-koa/issues"
+  },
+  "homepage": "https://github.com/scopevale/kick-off-koa#readme"
+}
